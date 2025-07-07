@@ -1,2 +1,2 @@
 # samkelo-repository
-#### This repository is for Github flow practice
+### I am self-made developer who is ready to be taught and is fond of teamwork. 
